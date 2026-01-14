@@ -35,7 +35,7 @@ The dashboard is designed to be **intuitive, interactive, and business-ready**, 
 
 Focuses on the **patient lifecycle**, showing admissions, diagnoses, medicine consumption, and billing.
 
-![Patient Dashboard Screenshot](https://github.com/noureeen/Hospital-Management-Dashboard/blob/main/Patient)
+![Patient Dashboard Screenshot](https://github.com/noureeen/Hospital-Management/blob/main/Patient.png)
 
 ---
 
@@ -43,7 +43,7 @@ Focuses on the **patient lifecycle**, showing admissions, diagnoses, medicine co
 
 Highlights **doctor contributions to patient care and hospital revenue**, including commission calculations.
 
-![Doctor Performance Dashboard Screenshot](https://github.com/noureeen/Hospital-Management-Dashboard/blob/main/Doctor)
+![Doctor Performance Dashboard Screenshot](https://github.com/noureeen/Hospital-Management/blob/main/Doctor.png)
 
 ---
 
